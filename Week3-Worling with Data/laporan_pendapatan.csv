@@ -1,0 +1,7 @@
+id_transaksi,nama_produk,kategori,harga_satuan,jumlah_terjual,total_pendapatan
+101,Laptop Asus,Elektronik,7500000,2,15000000
+102,Kopi Arabika 250g,F&B,75000,10,750000
+103,Mouse Wireless,Elektronik,150000,5,750000
+104,Kopi Robusta 500g,F&B,90000,8,720000
+105,Mechanical Keyboard,Elektronik,500000,3,1500000
+106,Tumbler Stainless,Lifestyle,120000,4,480000
