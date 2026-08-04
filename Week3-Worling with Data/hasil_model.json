@@ -1,0 +1,5 @@
+{
+    "model": "RandomForest",
+    "akurasi": 0.95,
+    "status": "Ready to deploy"
+}
