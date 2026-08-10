@@ -1,0 +1,13 @@
+{
+    "waktu_laporan": "07 August 2026, Jam 06:54 WIB",
+    "total_buku": 20,
+    "rata_rata_harga": 760.97,
+    "buku_termahal": {
+        "Judul": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "Harga": 57.25
+    },
+    "buku_termurah": {
+        "Judul": "Starving Hearts (Triangular Trade Trilogy, #1)",
+        "Harga": 13.99
+    }
+}
